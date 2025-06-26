@@ -1,1 +1,1 @@
-# poly-gamma-thesis
+# poly-solv-thesis
