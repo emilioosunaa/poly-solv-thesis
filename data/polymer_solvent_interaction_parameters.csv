@@ -1,0 +1,1099 @@
+Polymer,Solvent,Temperature (°C),Volume fraction,Interaction Parameter
+"Cellulose acetate, 2.3 acetate groups per residue",acetone,25 to 45,0,0.44
+"Cellulose acetate, 2.3 acetate groups per residue",acetic acid,25 to 45,0,0.4
+"Cellulose acetate, 2.3 acetate groups per residue",aniline,25 to 35,0,0.375 to 0.34
+"Cellulose acetate, 2.3 acetate groups per residue","1,4-dioxane",25 to 45,0,0.38
+"Cellulose acetate, 2.3 acetate groups per residue",methyl acetate,25 to 35,0,0.45
+"Cellulose acetate, 2.3 acetate groups per residue",nitromethane,25 to 45,0,0.43
+"Cellulose acetate, 2.3 acetate groups per residue",2-picoline,25,0,0.36
+"Cellulose acetate, 2.3 acetate groups per residue",3-picoline,25,0,0.285
+"Cellulose acetate, 2.3 acetate groups per residue",4-picoline,25,0,0.26
+"Cellulose acetate, 2.3 acetate groups per residue",pyridine,25 to 45,0,0.28
+"Cellulose acetate, 2.5 acetate groups per residue",acetone,30,0.2 to 0.4,0.30 to 0.51
+"Cellulose acetate, 2.5 acetate groups per residue","1,4-dioxane",30,0.2 to 0.4,0.31 to 0.51
+"Cellulose acetate, 2.5 acetate groups per residue",methyl acetate,30,0.2 to 0.4,0.43 to 0.59
+"Cellulose acetate, 2.5 acetate groups per residue",pyridine,30,0.2 to 0.4,0.07 to 0.09
+"Cellulose acetate, 2.5 acetate groups per residue",tetrahydrofuran,13,0,0.442
+"Cellulose acetate, 3.0 acetate groups per residue",chloroform,25,0,0.34
+"Cellulose acetate, 3.0 acetate groups per residue",chloroform,30,0.2 to 0.6,0.36 to 0.51
+"Cellulose acetate, 3.0 acetate groups per residue",dichloromethane,25,0 to 0.6,0.3 to 0.49
+"Cellulose nitrate, 2.4 nitrate groups per residue",acetone,25,0,0.27
+"Cellulose nitrate, 2.4 nitrate groups per residue",acetone,30,0 to 0.2,0.24 to 0.05
+"Cellulose nitrate, 2.4 nitrate groups per residue",amyl acetate,25,0,0.02
+"Cellulose nitrate, 2.4 nitrate groups per residue",2-butanone,25,0,0.21
+"Cellulose nitrate, 2.4 nitrate groups per residue",butyl acetate,25,0,0.015
+"Cellulose nitrate, 2.4 nitrate groups per residue",ethyl acetate,25,0,0.22
+"Cellulose nitrate, 2.4 nitrate groups per residue",2-heptanone,25,0,0.02
+"Cellulose nitrate, 2.4 nitrate groups per residue",2-hexanone,25,0,0.15
+"Cellulose nitrate, 2.4 nitrate groups per residue",methyl acetate,25,0,0.3
+"Cellulose nitrate, 2.4 nitrate groups per residue",methyl acetate,30,0 to 0.2,0.17 to -0.06
+"Cellulose nitrate, 2.4 nitrate groups per residue",2-octanone,25,0,0.16
+"Cellulose nitrate, 2.4 nitrate groups per residue",propyl acetate,25,0,0.13
+"Cellulose nitrate, 2.6 nitrate groups per residue",acetone,20,0.2 to 0.8,0.14 to -1.24
+"Cellulose nitrate, 2.6 nitrate groups per residue",acetonitrile,20,0.4 to 1,0.59 to -0.1
+"Cellulose nitrate, 2.6 nitrate groups per residue",cyclopentanone,20,0.2 to 0.8,0.42 to -2.4
+"Cellulose nitrate, 2.6 nitrate groups per residue","2,4-dimethyl-3-pentanone",20,0.2 to 0.6,0.62 to -1.7
+"Cellulose nitrate, 2.6 nitrate groups per residue","1,4-dioxane",20,0.4 to 0.8,1.2 to -1.7
+"Cellulose nitrate, 2.6 nitrate groups per residue",ethyl acetate,20,0.2 to 0.6,0.04 to -1.35
+"Cellulose nitrate, 2.6 nitrate groups per residue",ethyl formate,20,0.2 to 0.8,-0.08 to -3.2
+"Cellulose nitrate, 2.6 nitrate groups per residue",ethyl n-propyl ether,20,0.8,1.2
+"Cellulose nitrate, 2.6 nitrate groups per residue",isoamyl acetate,20,0.2 to 0.6,-0.89 to -3.3
+"Cellulose nitrate, 2.6 nitrate groups per residue",3-methylbutanone,20,0.2 to 0.6,-0.5 to -1.6
+"Cellulose nitrate, 2.6 nitrate groups per residue",nitromethane,20,0.2 to 0.8,0.66 to 0.45
+"Cellulose nitrate, 2.6 nitrate groups per residue",pinacolone,20,0.2 to 0.8,0.16 to -3.7
+"Cellulose nitrate, 2.6 nitrate groups per residue",propyl acetate,20,0.2 to 0.8,-0.38 to -4.1
+"Ethyl cellulose, 2.3 ethyl groups per residue",acetone,25,0,0.46
+"Ethyl cellulose, 2.3 ethyl groups per residue",benzene,25,0,0.48
+"Ethyl cellulose, 2.3 ethyl groups per residue",n-butyl acetate,25,0,0.24
+"Ethyl cellulose, 2.3 ethyl groups per residue",carbon tetrachloride,25,0,0.46
+"Ethyl cellulose, 2.3 ethyl groups per residue",chloroform,25,0,0.34
+"Ethyl cellulose, 2.3 ethyl groups per residue",ethyl acetate,25,0,0.395
+"Ethyl cellulose, 2.3 ethyl groups per residue",2-heptanone,25,0,0.38
+"Ethyl cellulose, 2.3 ethyl groups per residue",methyl acetate,25,0,0.41
+"Ethyl cellulose, 2.3 ethyl groups per residue",2-pentanone,25,0,0.37
+"Ethyl cellulose, 2.3 ethyl groups per residue",n-pentyl acetate,25,0,0.28
+"Ethyl cellulose, 2.3 ethyl groups per residue",n-propyl acetate,25,0,0.33
+"Ethyl cellulose, 2.3 ethyl groups per residue",toluene,25,0,0.47
+Hydroxypropyl cellulose,acetone,25,0.60 to 0.90,0.58 to 0.83
+Hydroxypropyl cellulose,ethanol,25,0.61 to 0.90,0.57 to 0.55
+Hydroxypropyl cellulose,tetrahyrofuran,25,0.52 to 0.90,0.34 to 0.48
+Hydroxypropyl cellulose,water,25,0 to 0.13,0.480 to 0.52
+Hydroxypropyl cellulose,water,25,0.51 to 1,0.63 to 1.55
+Hydroxypropyl cellulose,water,40,0 to 0.13,0.499 to 0.54
+Polyacrylamide,water,3,0.1,0.51
+Polyacrylamide,water,25,0,0.495
+Polyacrylamide,water,25,0.06,0.53
+Polyacrylamide,water,60,0.08,0.49
+Polyacrylamide,0.2N HCl,20 to 61,0,0.499 to 0.491
+Polyacrylonitrile,dimethylformamide,14,0,0.2
+Poly(N-acryloylpyrrolidine),ethanol,10 to 60,0.08,0.45
+Poly(N-acryloylpyrrolidine),water,3,0.07,0.49
+Poly(N-acryloylpyrrolidine),water,30,0.12,0.53
+Poly(N-acryloylpyrrolidine),water,60,0.35,0.66
+"Poly(cis-1,4-butadiene)",benzene,35,0.06 to 0.10,0.28
+"Poly(cis-1,4-butadiene)",carbon tetrachloride,23.5,0.62 to 0.85,0.11 to 0.02
+"Poly(cis-1,4-butadiene)",dichloromethane,23.5,0.69 to 0.85,0.32 to 0.21
+"Poly(cis-1,4-butadiene)",cyclohexane,23.5,0.65 to 0.83,0.46 to 0.34
+"Poly(cis-1,4-butadiene)",n-decane,35,0.16 to 0.23,0.46
+"Poly(cis-1,4-butadiene)",n-hexadecane,35,0.26 to 0.30,0.54
+"Poly(cis-1,4-butadiene)",n-hexane,23.5,0.67 to 0.88,0.61 to 0.45
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",acetone,40 to 100,1,1.64 to 1.32
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",acetonitrile,40 to 100,1,2.86 to 2.36
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",benzene,40 to 100,1,0.26 to 0.19
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-butanol,40 to 100,1,2.76 to 1.64
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",2-butanone,40 to 100,1,1.19 to 0.97
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",butyl acetate,40 to 100,1,0.52 to 0.44
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",butyronitrile,40 to 100,1,1.90 to 1.57
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",carbon tetrachloride,40 to 100,1,0.10 to 0.15
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",chloroform,40 to 100,1,0.05 to 0.07
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-chlorobutane,40 to 100,1,0.33 to 0.25
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-chloropentane,40 to 100,1,0.37 to 0.32
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-chloropropane,40 to 100,1,0.36 to 0.30
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",cyclohexane,40 to 100,1,0.22 to 0.15
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",ethanol,40 to 100,1,3.41 to 2.30
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",ethyl acetate,40 to 100,1,0.86 to 0.69
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",ethylcyclohexane,40 to 100,1,0.08 to 0.04
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",ethyl ether,40 to 100,1,0.42 to 0.40
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",n-heptane,40 to 100,1,0.36 to 0.31
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-heptene,40 to 100,1,0.25 to 0.23
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",n-hexane,40 to 100,1,0.37
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-hexene,40 to 100,1,0.32 to 0.28
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",methanol,40 to 100,1,3.85 to 2.70
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",methyl acetate,40 to 100,1,1.14 to 0.92
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",methylcyclohexane,40 to 100,1,0.17 to 0.13
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",methyl isobutyl ketone,40 to 100,1,0.95 to 0.72
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",n-octane,40 to 100,1,0.34 to 0.28
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-octene,40 to 100,1,0.23 to 0.21
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",n-pentane,40 to 100,1,0.44 to 0.36
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",3-pentanone,40 to 100,1,0.82 to 0.67
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",1-propanol,40 to 100,1,2.97 to 1.97
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",2-propanol,40 to 100,1,2.93 to 1.86
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",proprionitrile,40 to 100,1,2.25 to 1.82
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",n-propyl acetate,40 to 100,1,0.67 to 0.55
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",n-propyl ether,40 to 100,1,0.51 to 2.26
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",tetrahydrofuran,40 to 100,1,0.35 to 0.29
+"Polybutadiene, 10% cis, 21% trans, 69% vinyl",toluene,40 to 100,1,0.14 to 0.12
+Poly(1-butene),benzene,135,1,0.49
+Poly(1-butene),cyclohexane,135,1,0.2
+Poly(1-butene),n-decane,115 to 135,1,0.3
+Poly(1-butene),"2,5-dimethylhexane",115 to 135,1,0.36
+Poly(1-butene),"2,4-dimethylpentane",115 to 135,1,0.4
+Poly(1-butene),"2,3-dimethylpentane",115 to 135,1,0.35
+Poly(1-butene),3-ethylpentane,115 to 135,1,0.34
+Poly(1-butene),n-heptane,115 to 135,1,0.38
+Poly(1-butene),2-methylhexane,115 to 135,1,0.39
+Poly(1-butene),3-methylhexane,115 to 135,1,0.38
+Poly(1-butene),n-nonane,115 to 135,1,0.32
+Poly(1-butene),n-octane,115 to 135,1,0.36
+Poly(1-butene),toluene,135,1,0.47
+Poly(1-butene),"2,2,4-trimethylpentane",115 to 135,1,0.35
+Poly(butylene adipate),acetone,120,1,0.54
+Poly(butylene adipate),benzene,120,1,0.27
+Poly(butylene adipate),2-butanone,120,1,0.43
+Poly(butylene adipate),carbon tetrachloride,120,1,0.55
+Poly(butylene adipate),chloroform,120,1,-0.06
+Poly(butylene adipate),dichloromethane,120,1,0.7
+Poly(butylene adipate),ethyl acetate,120,1,0.43
+Poly(butylene adipate),n-heptane,120,1,1.5
+Poly(butylene adipate),n-hexane,120,1,1.4
+Poly(butylene adipate),n-pentane,120,1,1.3
+Poly(n-butyl methacrylate),ethanol,27,0 to 1,0.492 to 1.29
+Poly(n-butyl methacrylate),ethanol,86,0 to 1,0.399 to 0.95
+Poly(n-butyl methacrylate),2-propanol,40,0 to 1,0.509 to 1.4
+Poly(n-butyl methacrylate),2-propanol,80,0 to 1,0.477 to 1.0
+Poly(?-caprolactone),acetone,100 to 120,1,0.46 to 0.54
+Poly(?-caprolactone),benzene,100 to 120,1,0.06 to 0.11
+Poly(?-caprolactone),n-butane,100,1,1.22
+Poly(?-caprolactone),1-butanol,100,1,0.59
+Poly(?-caprolactone),2-butanone,100 to 120,1,0.36 to 0.45
+Poly(?-caprolactone),n-butyl acetate,70 to 140,1,0.21 to 0.26
+Poly(?-caprolactone),n-butyl acetate,100,1,0.31
+Poly(?-caprolactone),carbon tetrachloride,100 to 120,1,0.25 to 0.37
+Poly(?-caprolactone),chlorobenzene,100,1,-0.08
+Poly(?-caprolactone),1-chlorobutane,100,1,0.33
+Poly(?-caprolactone),chloroform,100 to 120,1,-0.40 to -0.22
+Poly(?-caprolactone),chloromethane,100,1,0.16
+Poly(?-caprolactone),1-chloropentane,100,1,0.33
+Poly(?-caprolactone),cycloheptane,100,1,0.83
+Poly(?-caprolactone),cyclohexane,100,1,0.88
+Poly(?-caprolactone),cyclohexene,100,1,0.6
+Poly(?-caprolactone),cyclooctane,100,1,0.83
+Poly(?-caprolactone),cyclopentane,100,1,0.82
+Poly(?-caprolactone),n-decane,100,1,1.44
+Poly(?-caprolactone),"1, 1-dichloroethane",100,1,-0.04
+Poly(?-caprolactone),"1,2-dichloroethane",100,1,-0.14
+Poly(?-caprolactone),dichloromethane,100,1,-0.26
+Poly(?-caprolactone),"1,4-dioxane",100,1,0.13
+Poly(?-caprolactone),ethanol,100,1,1.01
+Poly(?-caprolactone),ethyl acetate,100 to 120,1,0.36 to 0.42
+Poly(?-caprolactone),ethyl acetate,70 to 140,1,0.32 to 0.29
+Poly(?-caprolactone),ethylbenzene,100,1,0.16
+Poly(?-caprolactone),ethylbenzene,70 to 140,1,0.10 to 0.14
+Poly(?-caprolactone),n-heptane,100 to 120,1,1.2
+Poly(?-caprolactone),n-hexane,100 to 120,1,1.2
+Poly(?-caprolactone),methyl acetate,100,1,0.39
+Poly(?-caprolactone),methyl acetate,70 to 140,1,0.35 to 0.32
+Poly(?-caprolactone),n-nonane,100,1,1.37
+Poly(?-caprolactone),n-octane,100,1,1.3
+Poly(?-caprolactone),n-pentane,100 to 120,1,1.2
+Poly(?-caprolactone),1-pentanol,100,1,0.46
+Poly(?-caprolactone),2-pentyl acetate,70 to 140,1,0.40 to 0.28
+Poly(?-caprolactone),propane,100,1,1.21
+Poly(?-caprolactone),1-propanol,100,1,0.72
+Poly(?-caprolactone),propyl acetate,100,1,0.33
+Poly(?-caprolactone),propyl acetate,70 to 140,1,0.29 to 0.24
+Poly(?-caprolactone),n-propylbenzene,90 to 140,1,0.20 to 0.19
+Poly(?-caprolactone),2-propylbenzene,80 to 140,1,0.10 to 0.13
+Poly(?-caprolactone),tetrahydrofuran,100,1,0.13
+Poly(?-caprolactone),toluene,100,1,0.08
+Poly(?-caprolactone),"1,1,1-trichloroethane",100,1,0.07
+Poly(?-caprolactone),trichloroethylene,100,1,0.02
+Poly(?-caprolactone),n-undecane,100,1,1.52
+Polycarbonate,benzene,179 to 253,1,0.49 to 0.39
+Polycarbonate,cyclohexane,179 to 253,1,1.23 to 0.77
+Polycarbonate,n-decane,179 to 253,1,1.67 to 1.52
+Polycarbonate,n-dodecane,179 to 253,1,1.74 to 1.46
+Polycarbonate,ethylbenzene,179 to 253,1,0.49 to 0.47
+Polycarbonate,ethylcyclohexane,179 to 253,1,1.12 to 0.92
+Polycarbonate,n-heptane,179 to 253,1,1.73 to 1.34
+Polycarbonate,n-hexadecane,211 to 253,1,1.73 to 1.57
+Polycarbonate,n-hexane,179 to 231,1,1.87 to 1.19
+Polycarbonate,methylcyclohexane,179 to 253,1,1.19 to 0.82
+Polycarbonate,n-nonane,179 to 253,1,1.69 to 1.43
+Polycarbonate,n-octane,179 to 253,1,1.60 to 1.45
+Polycarbonate,n-tetradecane,179 to 253,1,1.82 to 1.54
+Polycarbonate,toluene,179 to 253,1,0.46 to 0.37
+Polycarbonate,n-undecane,179 to 253,1,1.73 to 1.53
+Polychloroprene,acetone,100,1,0.87
+Polychloroprene,benzene,100,1,0.18
+Polychloroprene,n-butane,100,1,0.99
+Polychloroprene,1-butanol,100,1,1.61
+Polychloroprene,2-butanone,100,1,0.61
+Polychloroprene,butyl acetate,100,1,0.44
+Polychloroprene,carbon tetrachloride,100,1,0.23
+Polychloroprene,chlorobenzene,100,1,0.1
+Polychloroprene,1-chlorobutane,100,1,0.39
+Polychloroprene,chloroform,100,1,0.28
+Polychloroprene,chloromethane,100,1,0.52
+Polychloroprene,1-chloropentane,100,1,0.33
+Polychloroprene,cycloheptane,100,1,0.45
+Polychloroprene,cyclohexane,100,1,0.55
+Polychloroprene,cyclohexene,100,1,0.38
+Polychloroprene,cyclooctane,100,1,0.4
+Polychloroprene,cyclopentane,100,1,0.55
+Polychloroprene,n-decane,100,1,0.94
+Polychloroprene,"1,1-dichloroethane",100,1,0.37
+Polychloroprene,"1,2-dichloroethane",100,1,0.48
+Polychloroprene,dichloromethane,100,1,0.43
+Polychloroprene,"1,4-dioxane",100,1,0.46
+Polychloroprene,ethanol,100,1,2.27
+Polychloroprene,ethyl acetate,100,1,0.64
+Polychloroprene,ethylbenzene,100,1,0.16
+Polychloroprene,n-heptane,100,1,0.88
+Polychloroprene,n-hexane,100,1,0.91
+Polychloroprene,methyl acetate,100,1,0.81
+Polychloroprene,n-nonane,100,1,0.92
+Polychloroprene,n-octane,100,1,0.9
+Polychloroprene,n-pentane,100,1,0.96
+Polychloroprene,1-pentanol,100,1,1.41
+Polychloroprene,propane,100,1,1.36
+Polychloroprene,1-propanol,100,1,1.83
+Polychloroprene,propyl acetate,100,1,0.51
+Polychloroprene,tetrahydrofuran,100,1,0.06
+Polychloroprene,"1,1,1-trichloroethane",100,1,0.21
+Polychloroprene,trichloroethylene,100,1,0.24
+Polychloroprene,toluene,100,1,0.14
+Polychloroprene,n-undecane,100,1,0.96
+Poly(o-chlorostyrene),butyl acetate,30,0,0.49
+Poly(o-chlorostyrene),chlorobenzene,30,0,0.472
+Poly(o-chlorostyrene),toluene,30,0,0.47
+Poly(p-chlorostyrene),butyl acetate,30,0,0.448
+Poly(p-chlorostyrene),chlorobenzene,30,0,0.465
+Poly(p-chlorostyrene),toluene,22,0.2 to 0.6,0.55
+Poly(p-chlorostyrene),toluene,30,0,0.489
+"Poly(N, N-diethylacrylamide)",ethanol,10 to 60,0.08,0.47
+"Poly(N, N-diethylacrylamide)",water,3,0.07,0.5
+"Poly(N, N-diethylacrylamide)",water,30,0.05,0.62
+"Poly(N, N-diethylacrylamide)",water,60,0.85,1.16
+"Poly(N,N-dimethylacrylamide)",ethanol,10 to 60,0.08,0.40 to 0.41
+"Poly(N,N-dimethylacrylamide)",water,3,0.07,0.48
+"Poly(N,N-dimethylacrylamide)",water,60,0.1,0.52
+Poly(dimethyl siloxane),acetone,100,1,1.33
+Poly(dimethyl siloxane),benzene,20,0.4 to 1,0.64 to 0.85
+Poly(dimethyl siloxane),benzene,25,0.2 to 1,0.56 to 0.82
+Poly(dimethyl siloxane),benzene,30,0.08 to 0.47,0.50 to 0.36
+Poly(dimethyl siloxane),benzene,30,0.88 to 1,0.745 to 0.759
+Poly(dimethyl siloxane),benzene,25 to 70,1,0.80 to 0.74
+Poly(dimethyl siloxane),benzene,40 to 100,1,0.79 to 0.58
+Poly(dimethyl siloxane),n-butane,100,1,0.25
+Poly(dimethyl siloxane),1-butanol,100,1,1.91
+Poly(dimethyl siloxane),2-butanone,20,0.08 to 0.30,0.52 to 0.61
+Poly(dimethyl siloxane),2-butanone,25,0,0.5
+Poly(dimethyl siloxane),2-butanone,30,0.35 to 0.66,0.44 to 0.66
+Poly(dimethyl siloxane),2-butanone,50,0.08 to 0.29,0.50 to 0.58
+Poly(dimethyl siloxane),butyl acetate,100,1,0.68
+Poly(dimethyl siloxane),carbon dioxide (20 < P < 62 bar),35,0.78 to 0.94,0.75
+Poly(dimethyl siloxane),carbon dioxide (P = 300 bar),45,0.67,0.45
+Poly(dimethyl siloxane),carbon tetrachloride,100,1,0.36
+Poly(dimethyl siloxane),chlorobenzene,20,0 to 0.2,0.475 to 0.54
+Poly(dimethyl siloxane),chlorobenzene,60,0 to 0.2,0.455 to 0.52
+Poly(dimethyl siloxane),chlorobenzene,100,1,0.76
+Poly(dimethyl siloxane),1-chlorobutane,100,1,0.49
+Poly(dimethyl siloxane),chloroform,100,1,0.6
+Poly(dimethyl siloxane),chloromethane,100,1,0.44
+Poly(dimethyl siloxane),1-chloropentane,100,1,0.48
+Poly(dimethyl siloxane),cycloheptane,25 to 70,1,0.56 to 0.53
+Poly(dimethyl siloxane),cycloheptane,100,1,0.42
+Poly(dimethyl siloxane),cyclohexane,20,0 to 0.2,0.409 to 0.44
+Poly(dimethyl siloxane),cyclohexane,25,0.2 to 0.6,0.46 to 0.50
+Poly(dimethyl siloxane),cyclohexane,25 to 70,1,0.48
+Poly(dimethyl siloxane),cyclohexane,30,0.35 to 0.95,0.42
+Poly(dimethyl siloxane),cyclohexane,100,1,0.35
+Poly(dimethyl siloxane),cyclohexene,100,1,0.36
+Poly(dimethyl siloxane),cyclooctane,25 to 70,1,0.66 to 0.61
+Poly(dimethyl siloxane),cyclooctane,100,1,0.5
+Poly(dimethyl siloxane),cyclopentane,25 to 70,1,0.42 to 0.46
+Poly(dimethyl siloxane),cyclopentane,100,1,0.28
+Poly(dimethyl siloxane),n-decane,100,1,0.51
+Poly(dimethyl siloxane),"1,1-dichloroethane",100,1,0.6
+Poly(dimethyl siloxane),"1,2-dichloroethane",100,1,0.96
+Poly(dimethyl siloxane),dichloromethane,100,1,0.69
+Poly(dimethyl siloxane),"2,6-dimethyl-4-heptanone",35,0.08 to 0.22,0.45 to 0.49
+Poly(dimethyl siloxane),"1,4-dioxane",25 to 70,1,1.32 to 1.18
+Poly(dimethyl siloxane),"1,4-dioxane",100,1,1.06
+Poly(dimethyl siloxane),ethyl acetate,100,1,0.82
+Poly(dimethyl siloxane),ethanol,100,1,2.6
+Poly(dimethyl siloxane),ethylbenzene,24,0.4 to 1,0.54 to 0.77
+Poly(dimethyl siloxane),ethylbenzene,25 to 70,1,0.83 to 0.78
+Poly(dimethyl siloxane),ethylbenzene,25 to 70,1,0.77 to 0.73
+Poly(dimethyl siloxane),ethylbenzene,100,1,0.62
+Poly(dimethyl siloxane),n-heptane,20,0.4 to 1,0.46
+Poly(dimethyl siloxane),n-heptane,35,0.06 to 0.19,0.42
+Poly(dimethyl siloxane),n-heptane,50,0.06 to 0.16,0.43
+Poly(dimethyl siloxane),n-heptane,25 to 70,1,0.49
+Poly(dimethyl siloxane),n-heptane,100,1,0.35
+Poly(dimethyl siloxane),3-heptanone,35,0.08 to 0.29,0.48 to 0.56
+Poly(dimethyl siloxane),3-heptanone,50,0.08 to 0.26,0.47 to 0.53
+Poly(dimethyl siloxane),hexamethyldisiloxane,23,0.4 to 1,0.30 to 0.25
+Poly(dimethyl siloxane),hexamethyldisiloxane,25 to 70,1,0.28 to 0.34
+Poly(dimethyl siloxane),n-hexane,20,0.03 to 0.17,0.39 to 0.37
+Poly(dimethyl siloxane),n-hexane,30,0.86 to 1,0.387 to 0.397
+Poly(dimethyl siloxane),n-hexane,50,0.06 to 0.11,0.41
+Poly(dimethyl siloxane),n-hexane,25 to 70,1,0.46
+Poly(dimethyl siloxane),n-hexane,100,1,0.3
+Poly(dimethyl siloxane),mesitylene,25 to 70,1,0.95 to 0.86
+Poly(dimethyl siloxane),methyl acetate,100,1,1.01
+Poly(dimethyl siloxane),2-methylbutane,25,1,0.39
+Poly(dimethyl siloxane),2-methylbutane,100,1,1.1
+Poly(dimethyl siloxane),2-methylheptane,25 to 70,1,0.5
+Poly(dimethyl siloxane),2-methylhexane,25 to 70,1,0.45
+Poly(dimethyl siloxane),3-methylhexane,25 to 70,1,0.44
+Poly(dimethyl siloxane),2-methylpentane,25 to 70,1,0.44
+Poly(dimethyl siloxane),4-methyl-2-pentanone,20,0.10 to 0.22,0.49 to 0.55
+Poly(dimethyl siloxane),4-methyl-2-pentanone,35,0.09 to 0.24,0.48 to 0.53
+Poly(dimethyl siloxane),n-nonane,20,0.07 to 0.21,0.48 to 0.49
+Poly(dimethyl siloxane),n-nonane,50,0.07 to 0.21,0.46 to 0.49
+Poly(dimethyl siloxane),n-nonane,100,1,0.45
+Poly(dimethyl siloxane),octamethylcyclotetrasiloxane,25,0.10 to 0.17,0.31 to 0.37
+Poly(dimethyl siloxane),octamethyltrisiloxane,23,0.4 to 1,0.22 to 0.14
+Poly(dimethyl siloxane),n-octane,20,0.4 to 1,0.5
+Poly(dimethyl siloxane),n-octane,20,0.05 to 0.21,0.45 to 0.46
+Poly(dimethyl siloxane),n-octane,50,0.06 to 0.19,0.43 to 0.45
+Poly(dimethyl siloxane),n-octane,25 to 100,1,0.56 to 0.40
+Poly(dimethyl siloxane),n-pentane,20,0.4 to 1,0.43 to 0.40
+Poly(dimethyl siloxane),n-pentane,25 to 70,1,0.42
+Poly(dimethyl siloxane),n-pentane,25 to 70,1,0.45 to 0.49
+Poly(dimethyl siloxane),n-pentane,100,1,0.31
+Poly(dimethyl siloxane),1-pentanol,100,1,1.75
+Poly(dimethyl siloxane),propane,100,1,0.21
+Poly(dimethyl siloxane),1-propanol,100,1,2.06
+Poly(dimethyl siloxane),propyl acetate,100,1,0.72
+Poly(dimethyl siloxane),tetrahydrofuran,100,1,0.48
+Poly(dimethyl siloxane),toluene,20,0 to 1,0.445 to 0.82
+Poly(dimethyl siloxane),toluene,25 to 70,1,0.80 to 0.75
+Poly(dimethyl siloxane),toluene,25 to 70,1,0.75 to 0.71
+Poly(dimethyl siloxane),toluene,100,1,0.59
+Poly(dimethyl siloxane),toluene,30,0.07 to 0.45,0.47 to 0.57
+Poly(dimethyl siloxane),"1,1,1-trichloroethane",100,1,0.37
+Poly(dimethyl siloxane),trichloroethylene,100,1,0.53
+Poly(dimethyl siloxane),"2,2,4-trimethylpentane",25 to 70,1,0.44
+Poly(dimethyl siloxane),n-undecane,100,1,0.58
+Poly(dimethyl siloxane),m-xylene,25 to 70,1,0.82 to 0.76
+Poly(dimethyl siloxane),o-xylene,25 to 70,1,0.86 to 0.80
+Poly(dimethyl siloxane),p-xylene,25,0.6 to 1,0.58 to 0.78
+Poly(dimethyl siloxane),p-xylene,25 to 70,1,0.80 to 0.77
+"Poly(1,3-dioxocane)",tetrahydrofuran,25,0,0.38
+"Poly(1,3-dioxocane)",toluene,25,0,0.37
+Polyepichlorohydrin,acetone,100,1,0.28
+Polyepichlorohydrin,benzene,100,1,0.25
+Polyepichlorohydrin,n-butane,100,1,1.65
+Polyepichlorohydrin,1-butanol,100,1,1.12
+Polyepichlorohydrin,2-butanone,100,1,0.2
+Polyepichlorohydrin,butyl acetate,100,1,0.36
+Polyepichlorohydrin,carbon tetrachloride,100,1,0.69
+Polyepichlorohydrin,chlorobenzene,100,1,0.24
+Polyepichlorohydrin,1-chlorobutane,100,1,0.62
+Polyepichlorohydrin,chloroform,100,1,0.25
+Polyepichlorohydrin,chloromethane,100,1,0.36
+Polyepichlorohydrin,1-chloropentane,100,1,0.65
+Polyepichlorohydrin,cycloheptane,100,1,1.19
+Polyepichlorohydrin,cyclohexane,100,1,1.25
+Polyepichlorohydrin,cyclohexene,100,1,0.84
+Polyepichlorohydrin,cyclooctane,100,1,1.2
+Polyepichlorohydrin,cyclopentane,100,1,1.16
+Polyepichlorohydrin,n-decane,100,1,2.12
+Polyepichlorohydrin,"1,1-dichloroethane",100,1,0.33
+Polyepichlorohydrin,"1,2,-dichloroethane",100,1,0.2
+Polyepichlorohydrin,dichloromethane,100,1,0.18
+Polyepichlorohydrin,"1,4-dioxane",100,1,0.04
+Polyepichlorohydrin,ethanol,100,1,1.58
+Polyepichlorohydrin,ethyl acetate,100,1,0.35
+Polyepichlorohydrin,ethylbenzene,100,1,0.44
+Polyepichlorohydrin,n-heptane,100,1,1.79
+Polyepichlorohydrin,n-hexane,100,1,1.72
+Polyepichlorohydrin,methyl acetate,100,1,0.39
+Polyepichlorohydrin,n-nonane,100,1,1.99
+Polyepichlorohydrin,n-octane,100,1,1.89
+Polyepichlorohydrin,n-pentane,100,1,1.64
+Polyepichlorohydrin,1-pentanol,100,1,1.03
+Polyepichlorohydrin,propane,100,1,1.71
+Polyepichlorohydrin,1-propanol,100,1,1.22
+Polyepichlorohydrin,propyl acetate,100,1,0.33
+Polyepichlorohydrin,tetrahydrofuran,100,1,0.01
+Polyepichlorohydrin,"1, 1, 1-trichloroethane",100,1,0.46
+Polyepichlorohydrin,trichloroethylene,100,1,0.53
+Polyepichlorohydrin,toluene,100,1,0.31
+Polyepichlorohydrin,n-undecane,100,1,2.24
+Poly(N-ethylacrylamide),ethanol,10 to 60,0.08,0.39 to 0.40
+Poly(N-ethylacrylamide),water,3,0.05,0.42
+Poly(N-ethylacrylamide),water,30,0.06,0.46
+Poly(N-ethylacrylamide),water,60,0.1,0.51
+"Polyethylene, low density",benzene,125 to 135,1,0.43 to 0.36
+"Polyethylene, low density",1-butanol,135,1,1.38
+"Polyethylene, low density",carbon tetrachloride,135,1,0.24
+"Polyethylene, low density",chlorobenzene,135,1,0.34
+"Polyethylene, low density",1-chlorobutane,135,1,0.44
+"Polyethylene, low density",chloroform,135,1,0.41
+"Polyethylene, low density",cyclohexane,125 to 135,1,0.18
+"Polyethylene, low density",cyclohexanol,135,1,1.22
+"Polyethylene, low density",cis-decahydronaphthalene,120 to 145,1,0.03
+"Polyethylene, low density",trans-decahydronaphthalene,120 to 145,1,0.01
+"Polyethylene, low density",n-decane,120 to 145,1,0.25 to 0.29
+"Polyethylene, low density","2,4-dimethylhexane",120 to 145,1,0.33
+"Polyethylene, low density","2,5-dimethylhexane",120 to 145,1,0.35
+"Polyethylene, low density","3,4-dimethylhexane",120 to 145,1,0.25
+"Polyethylene, low density",n-dodecane,110 to 145,1,0.18
+"Polyethylene, low density",n-dodecane,120 to 145,1,0.24
+"Polyethylene, low density",ethylbenzene,120 to 145,1,0.33
+"Polyethylene, low density",n-heptane,109,0.2 to 0.6,0.29 to 0.34
+"Polyethylene, low density",mesitylene,120 to 145,1,0.24
+"Polyethylene, low density",3-methylheptane,120 to 145,1,0.3
+"Polyethylene, low density",3-methylhexane,120 to 145,1,0.34
+"Polyethylene, low density",n-nonane,120 to 145,1,0.28
+"Polyethylene, low density",n-octane,120 to 145,1,0.3
+"Polyethylene, low density",1-octene,135,1,0.31
+"Polyethylene, low density",2-pentanone,135,1,0.88
+"Polyethylene, low density",phenol,135,1,1.5
+"Polyethylene, low density","1,2,3,4-tetrahydronaphthalene",105,0,0.495
+"Polyethylene, low density","1,2,3,4-tetrahydronaphthalene",120 to 145,1,0.28
+"Polyethylene, low density",toluene,120 to 145,1,0.34
+"Polyethylene, low density","2,2,4-trimethylhexane",120 to 145,1,0.28
+"Polyethylene, low density","2,2,4-trimethylpentane",120 to 145,1,0.34
+"Polyethylene, low density",m-xylene,120 to 145,1,0.29
+"Polyethylene, low density",p-xylene,81,0,0.45
+"Polyethylene, low density",p-xylene,120 to 145,1,0.28
+"Polyethylene, low density",xylene,73 to 92,0,0.49
+"Polyethylene, high density",cis-decahydronaphthalene,149,1,0.07
+"Polyethylene, high density",trans-decahydronapthalene,149,1,0.05
+"Polyethylene, high density",n-decane,145 to 190,1,0.18
+"Polyethylene, high density",n-decane,149,1,0.31
+"Polyethylene, high density",n-decane,185,1,0.12
+"Polyethylene, high density","2,4-dimethylhexane",149,1,0.38
+"Polyethylene, high density","2,5-dimethylhexane",149,1,0.4
+"Polyethylene, high density","3,4-dimethylhexane",149,1,0.31
+"Polyethylene, high density",n-dodecane,149,1,0.28
+"Polyethylene, high density",ethylbenzene,149,1,0.37
+"Polyethylene, high density",mesitylene,149,1,0.28
+"Polyethylene, high density",2-methylheptane,149,1,0.39
+"Polyethylene, high density",3-methylhexane,149,1,0.4
+"Polyethylene, high density",n-nonane,149,1,0.34
+"Polyethylene, high density",n-octane,149,1,0.36
+"Polyethylene, high density","1,2,3,4-tetrahydronaphthalene",149,1,0.32
+"Polyethylene, high density",toluene,149,1,0.39
+"Polyethylene, high density","2,2,4-trimethylhexane",149,1,0.35
+"Polyethylene, high density","2,2,4-trimethylpentane",149,1,0.4
+"Polyethylene, high density",m-xylene,149,1,0.34
+"Polyethylene, high density",o-xylene,110,0,0.31
+"Polyethylene, high density",p-xylene,105,0,0.22
+"Polyethylene, high density",p-xylene,149,1,0.32
+"Polyethylene, high density",xylene,85,0,0.34
+Poly(ethylene adipate),acetone,120,1,0.53
+Poly(ethylene adipate),benzene,120,1,0.58
+Poly(ethylene adipate),2-butanone,120,1,0.88
+Poly(ethylene adipate),carbon tetrachloride,120,1,0.88
+Poly(ethylene adipate),chloroform,120,1,0.29
+Poly(ethylene adipate),dichloromethane,120,1,0.96
+Poly(ethylene adipate),ethyl acetate,120,1,0.55
+Poly(ethylene adipate),n-heptane,120,1,2.1
+Poly(ethylene adipate),n-hexane,120,1,2
+Poly(ethylene adipate),n-pentane,120,1,1.8
+Poly(ethylene oxide),acetone,100,1,0.47
+Poly(ethylene oxide),benzene,50,0.2 to 0.6,0.18 to 0.10
+Poly(ethylene oxide),benzene,70,0.2 to 0.8,0.19 to 0.09
+Poly(ethylene oxide),benzene,100,1,0.13
+Poly(ethylene oxide),n-butane,100,1,1.64
+Poly(ethylene oxide),1-butanol,100,1,0.41
+Poly(ethylene oxide),2-butanone,100,1,0.43
+Poly(ethylene oxide),butyl acetate,100,1,0.48
+Poly(ethylene oxide),carbon tetrachloride,100,1,0.38
+Poly(ethylene oxide),chlorobenzene,100,1,-0.04
+Poly(ethylene oxide),1-chlorobutane,100,1,0.57
+Poly(ethylene oxide),chloroform,100,1,-0.55
+Poly(ethylene oxide),chloromethane,100,1,0.12
+Poly(ethylene oxide),1-chloropentane,100,1,0.63
+Poly(ethylene oxide),cycloheptane,100,1,1.23
+Poly(ethylene oxide),cyclohexane,100,1,1.23
+Poly(ethylene oxide),cyclohexene,100,1,0.85
+Poly(ethylene oxide),cyclooctane,100,1,1.26
+Poly(ethylene oxide),cyclopentane,100,1,1.12
+Poly(ethylene oxide),n-decane,100,1,2.1
+Poly(ethylene oxide),"1,1-dichloroethane",100,1,-0.04
+Poly(ethylene oxide),"1,2-dichloroethane",100,1,-0.31
+Poly(ethylene oxide),dichloromethane,100,1,-0.51
+Poly(ethylene oxide),"1,4-dioxane",100,1,0.2
+Poly(ethylene oxide),ethanol,100,1,0.7
+Poly(ethylene oxide),ethyl acetate,100,1,0.39
+Poly(ethylene oxide),ethylbenzene,100,1,0.4
+Poly(ethylene oxide),n-heptane,100,1,1.75
+Poly(ethylene oxide),n-hexane,100,1,1.7
+Poly(ethylene oxide),methyl acetate,100,1,0.36
+Poly(ethylene oxide),n-nonane,100,1,1.97
+Poly(ethylene oxide),n-octane,100,1,1.85
+Poly(ethylene oxide),n-pentane,100,1,1.66
+Poly(ethylene oxide),1-pentanol,100,1,0.34
+Poly(ethylene oxide),propane,100,1,2.17
+Poly(ethylene oxide),1-propanol,100,1,0.47
+Poly(ethylene oxide),propyl acetate,100,1,0.43
+Poly(ethylene oxide),tetrahydrofuran,100,1,0.3
+Poly(ethylene oxide),"1,1,1-trichloroethane",100,1,0.2
+Poly(ethylene oxide),trichloroethylene,100,1,0.08
+Poly(ethylene oxide),toluene,100,1,0.26
+Poly(ethylene oxide),n-undecane,100,1,2.22
+Poly(ethylene succinate),acetone,120,1,0.61
+Poly(ethylene succinate),benzene,120,1,0.79
+Poly(ethylene succinate),2-butanone,120,1,0.69
+Poly(ethylene succinate),carbon tetrachloride,120,1,1.32
+Poly(ethylene succinate),chloroform,120,1,0.49
+Poly(ethylene succinate),dichloromethane,120,1,1.09
+Poly(ethylene succinate),ethyl acetate,120,1,0.7
+Poly(ethylene succinate),n-heptane,120,1,1.9
+Poly(ethylene succinate),n-hexane,120,1,1.9
+Poly(ethylene succinate),n-pentane,120,1,2.6
+Poly(hexamethylene sebacate),acetone,120,1,0.82
+Poly(hexamethylene sebacate),benzene,120,1,0.21
+Poly(hexamethylene sebacate),2-butanone,120,1,0.58
+Poly(hexamethylene sebacate),carbon tetrachloride,120,1,0.37
+Poly(hexamethylene sebacate),chloroform,120,1,0.06
+Poly(hexamethylene sebacate),dichloromethane,120,1,0.81
+Poly(hexamethylene sebacate),ethyl acetate,120,1,0.57
+Poly(hexamethylene sebacate),n-heptane,120,1,1
+Poly(hexamethylene sebacate),n-hexane,120,1,1.2
+Poly(hexamethylene sebacate),n-pentane,120,1,1.1
+Poly(2-hydroxyethyl methacrylate),di(ethylene glycol),25,0 to 0.35,0.49 to 0.40
+Poly(4-hydroxystyrene),acetone,170 to 190,1,0.25 to 0.58
+Poly(4-hydroxystyrene),2-butanone,170 to 190,1,0.52 to 0.62
+Poly(4-hydroxystyrene),n-butyl acetate,170 to 190,1,1.47 to 1.20
+Poly(4-hydroxystyrene),chlorobenzene,190,1,1.99
+Poly(4-hydroxystyrene),ethyl acetate,170 to 190,1,1.06 to 1.07
+Poly(4-hydroxystyrene),2-methyl-1-propanol,190,1,1.1
+Poly(4-hydroxystyrene),3-pentanone,170 to 190,1,1.08 to 0.76
+Poly(4-hydroxystyrene),1-propanol,190,1,1.01
+Poly(4-hydroxystyrene),2-propanol,170 to 190,1,0.96 to 0.84
+Poly(4-hydroxystyrene),n-propyl acetate,170 to 190,1,1.22 to 1.10
+Poly(4-hydroxystyrene),tetrahydrofuran,170 to 190,1,0.21 to 0.27
+Poly(4-hydroxystyrene),toluene,170 to 190,1,2.20 to 2.22
+Polyisobutylene,acetone,100,1,1.9
+Polyisobutylene,benzene,10,0.4 to 0.8,0.67 to 0.92
+Polyisobutylene,benzene,25,0 to 1,0.498 to 1.06
+Polyisobutylene,benzene,25 to 65,1,0.88 to 0.61
+Polyisobutylene,benzene,27,0.6 to 1,0.73 to 1.07
+Polyisobutylene,benzene,30,0,0.495
+Polyisobutylene,benzene,40,0.6 to 0.8,0.70 to 0.80
+Polyisobutylene,benzene,50,0 to 0.2,0.485 to 0.583
+Polyisobutylene,benzene,100,1,0.7
+Polyisobutylene,benzene,37 to 200,1,1.18 to 0.70
+Polyisobutylene,n-butane,25 to 46,1,0.66
+Polyisobutylene,n-butane,100,1,0.65
+Polyisobutylene,1-butanol,100,1,2.45
+Polyisobutylene,2-butanone,100,1,1.55
+Polyisobutylene,butyl acetate,100,1,1.06
+Polyisobutylene,carbon tetrachloride,100,1,0.48
+Polyisobutylene,carbon tetrachloride,23.5,0.76 to 0.87,0.54
+Polyisobutylene,chlorobenzene,100,1,0.7
+Polyisobutylene,1-chlorobutane,100,1,0.68
+Polyisobutylene,chloroform,100,1,0.78
+Polyisobutylene,chloroform,23.5,0.82 to 0.91,0.67
+Polyisobutylene,chloromethane,100,1,0.91
+Polyisobutylene,1-chloropentane,100,1,0.59
+Polyisobutylene,cycloheptane,100,1,0.29
+Polyisobutylene,cyclohexane,8,0.2,0.437
+Polyisobutylene,cyclohexane,25,0 to 1,0.43
+Polyisobutylene,cyclohexane,25 to 65,1,0.55 to 0.40
+Polyisobutylene,cyclohexane,30,0 to 0.2,0.44
+Polyisobutylene,cyclohexane,100,1,0.39
+Polyisobutylene,cyclohexane,23.5,0.75 to 0.86,0.38
+Polyisobutylene,cyclohexene,100,1,0.4
+Polyisobutylene,cyclooctane,100,1,0.24
+Polyisobutylene,cyclopentane,100,1,0.41
+Polyisobutylene,cyclopentane,23.5,0.79 to 0.86,0.32 to 0.27
+Polyisobutylene,n-decane,100,1,0.48
+Polyisobutylene,"1,1-dichloroethane",100,1,0.87
+Polyisobutylene,"1,2-dichloroethane",100,1,1.13
+Polyisobutylene,dichloromethane,100,1,1
+Polyisobutylene,"2,2-dimethylbutane",23.5,0.71 to 0.85,0.49 to 0.46
+Polyisobutylene,"2,2-dimethylpropane",25 to 46,1,0.82 to 0.87
+Polyisobutylene,"2,2-dimethylpropane",35,0.8,0.82
+Polyisobutylene,"1,4-dioxane",100,1,1.26
+Polyisobutylene,ethanol,100,1,3.3
+Polyisobutylene,ethyl acetate,100,1,1.35
+Polyisobutylene,ethyl benzene,100,1,0.59
+Polyisobutylene,n-heptane,25 to 65,1,0.57 to 0.47
+Polyisobutylene,n-heptane,100,1,0.53
+Polyisobutylene,n-heptane,23.5,0.80 to 0.87,0.51
+Polyisobutylene,n-hexane,25 to 65,1,0.65 to 0.50
+Polyisobutylene,n-hexane,100,1,0.56
+Polyisobutylene,methyl acetate,100,1,1.55
+Polyisobutylene,2-methylbutane,25 to 35,0.8,0.65
+Polyisobutylene,2-methylbutane,35 to 46,1,0.65 to 0.68
+Polyisobutylene,2-methylpropane,25 to 46,1,0.78 to 0.70
+Polyisobutylene,n-nonane,25,1,0.49
+Polyisobutylene,n-nonane,100,1,0.49
+Polyisobutylene,n-octane,25,0.2 to 0.4,0.44 to 0.48
+Polyisobutylene,n-octane,25 to 65,1,0.52 to 0.43
+Polyisobutylene,n-octane,100,1,0.5
+Polyisobutylene,n-pentane,25,0 to 1,0.48 to 0.75
+Polyisobutylene,n-pentane,35,0.4 to 1,0.62
+Polyisobutylene,n-pentane,40,0 to 0.4,0.49 to 0.57
+Polyisobutylene,n-pentane,40 to 65,1,0.61 to 0.57
+Polyisobutylene,n-pentane,55,0.6 to 0.8,0.63
+Polyisobutylene,n-pentane,100,1,0.6
+Polyisobutylene,1-pentanol,100,1,2.2
+Polyisobutylene,propane,35,1,0.61
+Polyisobutylene,propane,100,1,0.79
+Polyisobutylene,propyl acetate,100,1,1.19
+Polyisobutylene,tetrahydrofuran,100,1,0.68
+Polyisobutylene,toluene,100,1,0.6
+Polyisobutylene,"1,1,1-trichloroethane",100,1,0.56
+Polyisobutylene,trichloroethylene,100,1,0.54
+Polyisobutylene,"2,2,4-trimethylpentane",23.5,0.67 to 0.87,0.50 to 0.45
+Polyisobutylene,n-undecane,100,1,0.48
+Poly(cis-isoprene),acetone,0,1,2.1
+Poly(cis-isoprene),acetone,25,0.8 to 1,1.27 to 1.8
+Poly(cis-isoprene),benzene,10,0.6 to 0.8,0.42
+Poly(cis-isoprene),benzene,25,0 to 1,0.40 to 0.43
+Poly(cis-isoprene),benzene,25 to 55,1,0.46 to 0.43
+Poly(cis-isoprene),benzene,40,0.8,0.41
+Poly(cis-isoprene),benzene,23.5,0.69 to 0.86,0.33 to 0.28
+Poly(cis-isoprene),2-butanone,25,0.6 to 1,0.86 to 1.43
+Poly(cis-isoprene),2-butanone,45,0.6 to 1,0.83 to 1.2
+Poly(cis-isoprene),carbon tetrachloride,23.5,0.69 to 0.84,0.14 to 0.02
+Poly(cis-isoprene),cyclohexane,20,0 to 0.20,0.31
+Poly(cis-isoprene),cyclohexane,23.5,0.64 to 0.84,0.29 to 0.21
+Poly(cis-isoprene),dichloromethane,23.5,0.69 to 0.89,0.54 to 0.41
+Poly(cis-isoprene),ethyl acetate,25,0.4 to 1,0.69 to 1.24
+Poly(cis-isoprene),ethyl acetate,50,0.4 to 1,0.68 to 1.0
+Poly(cis-isoprene),ethylbenzene,25 to 55,1,0.34 to 0.30
+Poly(cis-isoprene),n-heptane,25 to 55,1,0.5
+Poly(cis-isoprene),n-heptane,23.5,0.68 to 0.84,0.37 to 0.29
+Poly(cis-isoprene),n-hexane,25 to 55,1,0.54 to 0.50
+Poly(cis-isoprene),2-methylheptane,25 to 55,1,0.50 to 0.47
+Poly(cis-isoprene),2-methylhexane,25 to 55,1,0.51
+Poly(cis-isoprene),2-methylpentane,25 to 55,1,0.56 to 0.52
+Poly(cis-isoprene),n-octane,25 to 55,1,0.49 to 0.46
+Poly(cis-isoprene),n-pentane,25 to 55,1,0.61 to 0.53
+Poly(cis-isoprene),toluene,25 to 55,1,0.36 to 0.32
+Poly(cis-isoprene),"2,2,4-trimethylpentane",25 to 55,1,0.49 to 0.46
+Poly(cis-isoprene),p-xylene,25 to 55,1,0.27
+Poly(N-isopropylacrylamide),ethanol,10 to 60,0.09,0.46 to 0.47
+Poly(N-isopropylacrylamide),water,3,0.07,0.49
+Poly(N-isopropylacrylamide),water,30,0.14,0.55
+Poly(N-isopropylacrylamide),water,60,0.74,1.08
+Poly(DL-lactide),acetone,120,1,0.56
+Poly(DL-lactide),benzene,120,1,0.52
+Poly(DL-lactide),2-butanone,120,1,0.53
+Poly(DL-lactide),carbon tetrachloride,120,1,0.89
+Poly(DL-lactide),chloroform,120,1,0.32
+Poly(DL-lactide),dichloromethane,120,1,0.99
+Poly(DL-lactide),ethyl acetate,120,1,0.46
+Poly(DL-lactide),n-heptane,120,1,2
+Poly(DL-lactide),n-hexane,120,1,2
+Poly(DL-lactide),n-pentane,120,1,1.6
+Poly(methacrylamide),water,23 to 56,0,0.500 to 0.499
+Poly(methacrylic acid),0.02 N HCl,20 to 58,0,0.498 to 0.500
+Poly(methyl acrylate),acetone,100,1,0.4
+Poly(methyl acrylate),benzene,90 to 110,1,0.51 to 0.37
+Poly(methyl acrylate),n-butane,100,1,1.86
+Poly(methyl acrylate),1-butanol,100,1,0.79
+Poly(methyl acrylate),2-butanone,100,1,0.4
+Poly(methyl acrylate),butyl acetate,100,1,0.58
+Poly(methyl acrylate),butylbenzene,90 to 110,1,1.14 to 1.05
+Poly(methyl acrylate),tert-butylbenzene,90 to 110,1,1.03 to 0.95
+Poly(methyl acrylate),butylcyclohexane,90 to 110,1,2.3 to 2.1
+Poly(methyl acrylate),carbon tetrachloride,100,1,0.68
+Poly(methyl acrylate),chlorobenzene,100,1,0.31
+Poly(methyl acrylate),1-chlorobutane,100,1,0.74
+Poly(methyl acrylate),chloroform,100,1,-0.1
+Poly(methyl acrylate),chloromethane,100,1,0.34
+Poly(methyl acrylate),1-chloropentane,100,1,0.84
+Poly(methyl acrylate),cycloheptane,100,1,1.56
+Poly(methyl acrylate),cyclohexane,90 to 110,1,1.7 to 1.5
+Poly(methyl acrylate),cyclohexene,100,1,1.31
+Poly(methyl acrylate),cyclooctane,100,1,1.61
+Poly(methyl acrylate),cyclopentane,100,1,1.47
+Poly(methyl acrylate),cis-decahydronaphthalene,90 to 110,1,2.1 to 1.8
+Poly(methyl acrylate),trans-decahydronaphthalene,90 to 110,1,2.1 to 1.9
+Poly(methyl acrylate),n-decane,88 to 100,1,2.7 to 2.4
+Poly(methyl acrylate),"1,1-dichloroethane",100,1,0.2
+Poly(methyl acrylate),"1,2-dichloroethane",100,1,0.02
+Poly(methyl acrylate),dichloroethane,100,1,-0.09
+Poly(methyl acrylate),"1,4-dioxane",100,1,0.2
+Poly(methyl acrylate),n-dodecane,90 to 110,1,3.0 to 2.7
+Poly(methyl acrylate),ethanol,100,1,1.01
+Poly(methyl acrylate),ethyl acetate,100,1,0.43
+Poly(methyl acrylate),ethylbenzene,90 to 110,1,0.83 to 0.67
+Poly(methyl acrylate),n-heptane,100,1,2.1
+Poly(methyl acrylate),n-hexane,100,1,2.08
+Poly(methyl acrylate),methyl acetate,100,1,0.38
+Poly(methyl acrylate),naphthalene,100 to 110,1,0.48
+Poly(methyl acrylate),n-nonane,100,1,2.4
+Poly(methyl acrylate),n-octane,90 to 100,1,2.4 to 2.2
+Poly(methyl acrylate),n-pentane,100,1,1.92
+Poly(methyl acrylate),1-pentanol,100,1,0.76
+Poly(methyl acrylate),propane,100,1,2.5
+Poly(methyl acrylate),1-propanol,100,1,0.82
+Poly(methyl acrylate),propyl acetate,100,1,0.49
+Poly(methyl acrylate),n-tetradecane,90 to 110,1,3.4 to 3.1
+Poly(methyl acrylate),tetrahydrofuran,100,1,0.34
+Poly(methyl acrylate),"1,2,3,4-tetrahydronaphthalene",90 to 110,1,1.04 to 0.95
+Poly(methyl acrylate),"3,3,4,4-tetramethylhexane",90 to 110,1,2.2 to 1.9
+Poly(methyl acrylate),toluene,90 to 110,1,0.67 to 0.62
+Poly(methyl acrylate),toluene,100,1,0.53
+Poly(methyl acrylate),"1,1,1-trichloroethane",100,1,0.43
+Poly(methyl acrylate),trichloroethylene,100,1,0.45
+Poly(methyl acrylate),"3,4,5-trimethylheptane",90 to 110,1,2.4 to 2.2
+Poly(methyl acrylate),"2,2,5-trimethylhexane",90 to 110,1,2.5 to 2.2
+Poly(methyl acrylate),"2,2,4-trimethylpentane",90 to 110,1,2.4 to 2.1
+Poly(methyl acrylate),n-undecane,100,1,2.7
+Poly(methyl methacrylate),acetone,25 to 27,0,0.48
+Poly(methyl methacrylate),benzene,16 to 27,0,0.47 to 0.44
+Poly(methyl methacrylate),butyl acetate,2 to 60,0,0.496 to 0.487
+Poly(methyl methacrylate),1-chlorobutane,14 to 48,0,0.515 to 0.495
+Poly(methyl methacrylate),chloroform,27,0,0.44
+Poly(methyl methacrylate),"1,4-dioxane",27,0,0.42
+Poly(methyl methacrylate),4-heptanone,16 to 62,0,0.515 to 0.490
+Poly(methyl methacrylate),isoamyl acetate,20 to 60,0,0.524 to 0.499
+Poly(methyl methacrylate),3-pentanone,27,0,0.49
+Poly(methyl methacrylate),tetrahydrofuran,25 to 27,0,0.494 to 0.46
+Poly(methyl methacrylate),toluene,27,0,0.45
+Poly(methyl methacrylate),m-xylene,27,0,0.5
+Poly(a-methylstyrene),toluene,25,0.3 to 0.7,0.48 to 0.65
+Polypropylene,acetone,100,1,1.72
+Polypropylene,benezene,25,0,0.498
+Polypropylene,benezene,100,1,0.51
+Polypropylene,butane,100,1,0.37
+Polypropylene,1-butanol,100,1,2.23
+Polypropylene,2-butanone,100,1,1.36
+Polypropylene,butyl acetate,100,1,0.84
+Polypropylene,carbon tetrachloride,100,1,0.29
+Polypropylene,chlorobenzene,100,1,0.54
+Polypropylene,1-chlorobutane,100,1,0.48
+Polypropylene,chloroform,100,1,0.61
+Polypropylene,chloromethane,100,1,0.76
+Polypropylene,1-chloropentane,100,1,0.39
+Polypropylene,cycloheptane,100,1,0.1
+Polypropylene,cyclohexane,25,0,0.42
+Polypropylene,cyclohexane,100,1,0.17
+Polypropylene,cyclohexene,100,1,0.22
+Polypropylene,cyclooctane,100,1,0.06
+Polypropylene,cyclopentane,100,1,0.21
+Polypropylene,"1,1-dichloroethane",100,1,0.7
+Polypropylene,"1,2-dichloroethane",100,1,0.97
+Polypropylene,dichloromethane,100,1,0.86
+Polypropylene,"1,4-dioxane",100,1,1.15
+Polypropylene,ethanol,100,1,3
+Polypropylene,ethyl acetate,100,1,1.14
+Polypropylene,ethylbenzene,100,1,0.4
+Polypropylene,n-decane,100,1,0.18
+Polypropylene,n-heptane,100,1,0.24
+Polypropylene,n-hexane,80,1,0.18
+Polypropylene,n-hexane,100,1,0.28
+Polypropylene,methyl acetate,100,1,1.37
+Polypropylene,n-nonane,100,1,0.2
+Polypropylene,n-octane,100,1,0.22
+Polypropylene,n-pentane,100,1,0.35
+Polypropylene,1-pentanol,100,1,1.99
+Polypropylene,propane,100,1,0.46
+Polypropylene,propyl acetate,100,1,0.96
+Polypropylene,tetrahydrofuran,100,1,0.55
+Polypropylene,toluene,100,1,0.43
+Polypropylene,"1,1,1-trichloroethane",100,1,0.37
+Polypropylene,trichloroethylene,100,1,0.39
+Polypropylene,n-undecane,100,1,0.17
+Polystyrene,acetic acid,162 to 229,1,3.0 to 2.1
+Polystyrene,acetone,25,0.6 to 1,0.81 to 1.1
+Polystyrene,acetone,40,1,1.08
+Polystyrene,acetone,50,0.6 to 0.8,0.80 to 0.92
+Polystyrene,acetone,162 to 229,1,1.30 to 0.56
+Polystyrene,acetonitrile,162 to 229,1,2.02 to 0.93
+Polystyrene,aniline,162 to 229,1,1.11 to 0.68
+Polystyrene,benzaldehyde,162 to 229,1,1.22 to 0.80
+Polystyrene,benzene,15,0.3 to 0.8,0.40 to 0.26
+Polystyrene,benzene,25 to 30,0,0.455 to 0.43
+Polystyrene,benzene,30,0.3 to 0.8,0.40 to 0.26
+Polystyrene,benzene,40,1,0.26
+Polystyrene,benzene,45,0.3 to 0.8,0.40 to 0.26
+Polystyrene,benzene,60,0.3 to 0.8,0.40 to 0.26
+Polystyrene,benzene,120 to 200,1,0.32 to 0.39
+Polystyrene,benzene,160 to 180,1,0.29 to 0.24
+Polystyrene,benzene,162 to 229,1,0.66 to 0.13
+Polystyrene,benzene,23.5,0.61 to 0.79,0.28 to 0.17
+Polystyrene,benzyl alcohol,162 to 229,1,1.42 to 0.65
+Polystyrene,1-butanol,162 to 229,1,1.47 to 0.82
+Polystyrene,2-butanone,10 to 50,0.2,0.547 to 0.542
+Polystyrene,2-butanone,25,0.4 to 0.8,0.63 to 0.77
+Polystyrene,2-butanone,27 to 52,0,0.490 to 0.474
+Polystyrene,2-butanone,40,1,0.84
+Polystyrene,2-butanone,70,0.6 to 0.8,0.63 to 0.72
+Polystyrene,2-butanone,162 to 229,1,1.16 to 0.36
+Polystyrene,butyl acetate,30,0,0.466
+Polystyrene,butyl acetate,162 to 229,1,1.01 to 0.45
+Polystyrene,tert-butyl acetate,22 to 64,0,0.501 to 0.494
+Polystyrene,tert-butyl acetate,64 to 111,0,0.494 to 0.501
+Polystyrene,tert-butyl acetate,30 to 90,0.12 to 0.32,0.60 to 0.59
+Polystyrene,tert-butyl acetate,143 to 183,1,0.39 to 0.1
+Polystyrene,butylbenzene,183 to 203,1,0.38 to 0.34
+Polystyrene,butylcyclohexane,160 to 180,1,0.77 to 0.71
+Polystyrene,carbon tetrachloride,40,1,0.29
+Polystyrene,carbon tetrachloride,162 to 229,1,0.90 to 0.26
+Polystyrene,carbon tetrachloride,23.5,0.71 to 0.81,0.22 to 0.24
+Polystyrene,chlorobenzene,30,0,0.454
+Polystyrene,chlorobenzene,162 to 229,1,0.68 to 0.28
+Polystyrene,chlorobenzene,137.6,1,0.3
+Polystyrene,chloroform,25,0.2 to 0.8,0.52 to 0.17
+Polystyrene,chloroform,40,1,0.13
+Polystyrene,chloroform,50,0.2 to 0.8,0.45 to 0.14
+Polystyrene,chloroform,162 to 229,1,0.43 to -0.01
+Polystyrene,cumene,25,0,0.444
+Polystyrene,cyclohexane,15,0.5,0.77
+Polystyrene,cyclohexane,24,0 to 0.2,0.508 to 0.58
+Polystyrene,cyclohexane,30,0.3,0.62
+Polystyrene,cyclohexane,34,0 to 0.8,0.500 to 0.93
+Polystyrene,cyclohexane,35,0 to 0.3,0.50 to 0.57
+Polystyrene,cyclohexane,40,1,0.64
+Polystyrene,cyclohexane,44,0 to 0.8,0.494 to 0.93
+Polystyrene,cyclohexane,45,0 to 0.3,0.49 to 0.56
+Polystyrene,cyclohexane,49 to 60,0,0.495 to 0.486
+Polystyrene,cyclohexane,50,0.1,0.51
+Polystyrene,cyclohexane,65,0 to 0.3,0.47 to 0.54
+Polystyrene,cyclohexane,160 to 180,1,0.62 to 0.53
+Polystyrene,cyclohexane,162 to 229,1,1.11 to 0.46
+Polystyrene,cyclohexane,23.5,0.78 to 0.84,0.79 to 0.81
+Polystyrene,cyclohexane,30 to 50,0,0.52 to 0.39
+Polystyrene,cyclohexane,35,0.28 to 0.94,0.61 to 1.08
+Polystyrene,cyclohexane,65,0.23 to 0.92,0.52 to 0.69
+Polystyrene,cyclohexanone,27 to 57,0,0.436
+Polystyrene,cyclopentane,40,1,0.64
+Polystyrene,cis-decahydronapthalene,183 to 203,1,0.47 to 0.42
+Polystyrene,trans-decahydronaphthalene,183 to 203,1,0.52 to 0.46
+Polystyrene,n-decane,183 to 203,1,1.01 to 0.94
+Polystyrene,n-decane,120 to 160,1,1.36 to 1.03
+Polystyrene,"1,2-dichloroethane",162 to 229,1,0.85 to 0.22
+Polystyrene,dichloromethane,40,1,0.34
+Polystyrene,dichloromethane,162 to 229,1,0.62 to -0.21
+Polystyrene,dichloromethane,23.5,0.64 to 0.82,0.17 to 0.05
+Polystyrene,"1,4-dioxane",40,1,0.43
+Polystyrene,"1,4-dioxane",162 to 229,1,0.95 to 0.42
+Polystyrene,n-dodecane,183 to 203,1,1.09 to 1.00
+Polystyrene,ethanol,162 to 229,1,1.80 to 0.43
+Polystyrene,ethyl acetate,27 to 49,0,0.49
+Polystyrene,ethyl acetate,162 to 229,1,1.14 to 0.35
+Polystyrene,ethylbenzene,10 to 60,0.2,0.44
+Polystyrene,ethylbenzene,25,0,0.45
+Polystyrene,ethylbenzene,120 to 185,1,0.22 to 0.14
+Polystyrene,ethylene glycol,162 to 229,1,3.8 to 2.2
+Polystyrene,ethyl ether,162 to 229,1,0.78 to 0.71
+Polystyrene,fluorobenzene,40,1,0.37
+Polystyrene,formamide,162 to 229,1,4.1 to 3.2
+Polystyrene,n-heptane,40,1,0.95
+Polystyrene,n-heptane,162 to 229,1,1.33 to 0.25
+Polystyrene,n-hexane,40,1,0.97
+Polystyrene,n-hexane,162 to 229,1,1.35 to -0.03
+Polystyrene,n-hexadecane,183 to 203,1,1.22 to 1.14
+Polystyrene,isopropyl ether,40,1,0.78
+Polystyrene,isopropyl ether,162 to 229,1,1.42 to 0.41
+Polystyrene,methanol,162 to 229,1,2.19 to 0.44
+Polystyrene,methylcyclohexane,72,0 to 0.4,0.49 to 0.67
+Polystyrene,2-methyl-1-propanol,162 to 229,1,1.71 to 0.81
+Polystyrene,naphthalene,183 to 203,1,0.12
+Polystyrene,nitrobenzene,162 to 229,1,1.18 to 0.72
+Polystyrene,n-octane,40,1,0.95
+Polystyrene,n-octane,162 to 229,1,2.19 to 0.80
+Polystyrene,1-octanol,162 to 229,1,1.41 to 0.55
+Polystyrene,n-pentane,162 to 229,1,1.12 to 0.83
+Polystyrene,1-pentanol,162 to 229,1,1.75 to 0.86
+Polystyrene,1-propanol,162 to 229,1,1.71 to 0.27
+Polystyrene,2-propanol,40,1,2.6
+Polystyrene,2-propanol,162 to 229,1,1.74 to -0.15
+Polystyrene,propyl acetate,25,0.4 to 0.8,0.66
+Polystyrene,propyl acetate,40,1,0.52
+Polystyrene,propyl acetate,70,0.4 to 0.8,0.6
+Polystyrene,pyridine,162 to 229,1,1.02 to 0.23
+Polystyrene,tetrachloroethylene,40,1,0.36
+Polystyrene,n-tetradecane,183 to 203,1,1.14 to 1.08
+Polystyrene,tetrahydrofuran,162 to 229,1,0.70 to -0.16
+Polystyrene,"1,2,3,4-tetrahydronaphthalene",183 to 203,1,0.2
+Polystyrene,"3,3,4,4-tetramethylhexane",160 to 180,1,0.90 to 0.76
+Polystyrene,toluene,22,0.2 to 0.6,0.4
+Polystyrene,toluene,25,0.4 to 0.8,0.42 to 0.31
+Polystyrene,toluene,25,0.2 to 0.8,0.37 to 0.16
+Polystyrene,toluene,27 to 40,0,0.437 to 0.482
+Polystyrene,toluene,40,1,0.19
+Polystyrene,toluene,45,0 to 0.3,0.41 to 0.37
+Polystyrene,toluene,60,0.8,0.32
+Polystyrene,toluene,65,0 to 0.3,0.40 to 0.37
+Polystyrene,toluene,68,0,0.452
+Polystyrene,toluene,80,0.4 to 0.6,0.40 to 0.35
+Polystyrene,toluene,162 to 229,1,0.67 to 0.04
+Polystyrene,toluene,23.5,0.66 to 0.83,0.34 to 0.22
+Polystyrene,toluene,25,0.03 to 0.34,0.43 to 0.40
+Polystyrene,toluene,25,0.07 to 0.20,0.40 to 0.39
+Polystyrene,toluene,40,0.06 to 0.18,0.42
+Polystyrene,toluene,137.6,1,0.32
+Polystyrene,trichloroethylene,40,1,0.19
+Polystyrene,trichloroethylene,162 to 229,1,0.69 to 0.12
+Polystyrene,"2,2,4-trimethylpentane",162 to 229,1,1.72 to 0.35
+Polystyrene,water,162 to 229,1,4.4 to 3.1
+Polystyrene,o-xylene,162 to 229,1,0.72 to 0.26
+Poly(tetramethylene oxide),acetone,100,1,0.73
+Poly(tetramethylene oxide),benzene,100,1,0.04
+Poly(tetramethylene oxide),n-butane,100,1,0.76
+Poly(tetramethylene oxide),1-butanol,100,1,0.54
+Poly(tetramethylene oxide),2-butanone,100,1,0.53
+Poly(tetramethylene oxide),butyl acetate,100,1,0.3
+Poly(tetramethylene oxide),carbon tetrachloride,100,1,0.1
+Poly(tetramethylene oxide),chlorobenzene,100,1,-0.09
+Poly(tetramethylene oxide),1-chlorobutane,100,1,0.22
+Poly(tetramethylene oxide),chloroform,100,1,-0.38
+Poly(tetramethylene oxide),chloromethane,100,1,0.19
+Poly(tetramethylene oxide),1-chloropentane,100,1,0.18
+Poly(tetramethylene oxide),cycloheptane,100,1,0.41
+Poly(tetramethylene oxide),cyclohexane,100,1,1.23
+Poly(tetramethylene oxide),cyclohexene,100,1,0.28
+Poly(tetramethylene oxide),cyclooctane,100,1,0.4
+Poly(tetramethylene oxide),cyclopentane,100,1,0.45
+Poly(tetramethylene oxide),n-decane,100,1,0.8
+Poly(tetramethylene oxide),"1,1-dichloroethane",100,1,0
+Poly(tetramethylene oxide),"1,2-dichloroethane",100,1,0.05
+Poly(tetramethylene oxide),dichloromethane,100,1,-0.12
+Poly(tetramethylene oxide),"1,4-dioxane",100,1,0.39
+Poly(tetramethylene oxide),ethanol,100,1,1.08
+Poly(tetramethylene oxide),ethyl acetate,100,1,0.45
+Poly(tetramethylene oxide),ethylbenzene,100,1,0.07
+Poly(tetramethylene oxide),n-heptane,100,1,0.73
+Poly(tetramethylene oxide),n-hexane,100,1,0.74
+Poly(tetramethylene oxide),methyl acetate,100,1,0.58
+Poly(tetramethylene oxide),n-nonane,100,1,0.78
+Poly(tetramethylene oxide),n-octane,100,1,0.75
+Poly(tetramethylene oxide),n-pentane,100,1,0.76
+Poly(tetramethylene oxide),1-pentanol,100,1,0.37
+Poly(tetramethylene oxide),propane,100,1,0.9
+Poly(tetramethylene oxide),1-propanol,100,1,0.71
+Poly(tetramethylene oxide),propyl acetate,100,1,0.36
+Poly(tetramethylene oxide),tetrahydrofuran,100,1,0.13
+Poly(tetramethylene oxide),"1,1,1-trichloroethane",100,1,-0.02
+Poly(tetramethylene oxide),trichloroethylene,100,1,-0.06
+Poly(tetramethylene oxide),toluene,100,1,0.04
+Poly(tetramethylene oxide),n-undecane,100,1,0.83
+Poly(?-valerolactone),acetone,120,1,0.64
+Poly(?-valerolactone),benzene,120,1,0.34
+Poly(?-valerolactone),2-butanone,120,1,0.43
+Poly(?-valerolactone),carbon tetrachloride,120,1,0.61
+Poly(?-valerolactone),chloroform,120,1,-0.02
+Poly(?-valerolactone),dichloromethane,120,1,0.86
+Poly(?-valerolactone),ethyl acetate,120,1,0.54
+Poly(?-valerolactone),n-heptane,120,1,1.6
+Poly(?-valerolactone),n-hexane,120,1,1.6
+Poly(?-valerolactone),n-pentane,120,1,1.5
+Poly(vinyl acetate),acetaldehyde,125 to 140,1,0.35 to 0.32
+Poly(vinyl acetate),acetone,25 to 29,0,0.4
+Poly(vinyl acetate),acetone,30 to 40,0.8,0.34
+Poly(vinyl acetate),acetone,30 to 50,1,0.31 to 0.39
+Poly(vinyl acetate),acetone,100 to 140,1,0.32 to 0.21
+Poly(vinyl acetate),acetonitrile,125 to 140,1,0.54 to 0.49
+Poly(vinyl acetate),allyl chloride,40,1,0.27
+Poly(vinyl acetate),benzene,5,0.2,0.46
+Poly(vinyl acetate),benzene,20,0,0.42
+Poly(vinyl acetate),benzene,30,0.4 to 0.8,0.45 to 0.29
+Poly(vinyl acetate),benzene,35 to 62,0,0.51 to 0.42
+Poly(vinyl acetate),benzene,30 to 50,1,0.30 to 0.26
+Poly(vinyl acetate),benzene,80 to 140,1,0.44 to 0.25
+Poly(vinyl acetate),benzene,125 to 145,1,0.37 to 0.32
+Poly(vinyl acetate),n-butane,100,1,1.97
+Poly(vinyl acetate),1-butanol,100 to 135,1,0.62 to 0.38
+Poly(vinyl acetate),2-butanol,135,1,0.31
+Poly(vinyl acetate),2-butanone,10 to 45,0,0.43
+Poly(vinyl acetate),2-butanone,100 to 140,1,0.34 to 0.20
+Poly(vinyl acetate),butyl acetate,100,1,0.51
+Poly(vinyl acetate),butylbenzene,125 to 145,1,0.95 to 0.88
+Poly(vinyl acetate),butylcyclohexane,125 to 145,1,1.90 to 1.75
+Poly(vinyl acetate),carbon tetrachloride,90 to 135,1,0.85 to 0.63
+Poly(vinyl acetate),chlorobenzene,100 to 135,1,0.28 to 0.33
+Poly(vinyl acetate),1-chlorobutane,100 to 135,1,0.73 to 0.66
+Poly(vinyl acetate),chloroform,80 to 135,1,-0.17 to -0.09
+Poly(vinyl acetate),chloromethane,100,1,0.25
+Poly(vinyl acetate),1-chloropentane,100,1,0.82
+Poly(vinyl acetate),1-chloropropane,40,1,0.75
+Poly(vinyl acetate),cycloheptane,100,1,1.63
+Poly(vinyl acetate),cyclohexane,100 to 140,1,1.65 to 1.16
+Poly(vinyl acetate),cyclohexene,100,1,1.18
+Poly(vinyl acetate),cyclohexanol,135,1,0.44
+Poly(vinyl acetate),cyclooctane,100,1,1.67
+Poly(vinyl acetate),cyclopentane,100,1,1.53
+Poly(vinyl acetate),cis-decahydronaphthalene,125 to 145,1,1.65 to 1.50
+Poly(vinyl acetate),n-decane,100 to 145,1,2.5 to 2.01
+Poly(vinyl acetate),1-decanol,135,1,0.81
+Poly(vinyl acetate),"1,1-dichloroethane",100,1,0.19
+Poly(vinyl acetate),"1,2-dichloroethane",100 to 140,1,-0.04 to 0.00
+Poly(vinyl acetate),dichloromethane,100,1,-0.14
+Poly(vinyl acetate),dimethylphthalate,25,0,0.4
+Poly(vinyl acetate),"1,4-dioxane",25,0,0.407
+Poly(vinyl acetate),"1,4-dioxane",100 to 140,1,0.17 to 0.03
+Poly(vinyl acetate),n-dodecane,125 to 145,1,2.48 to 2.27
+Poly(vinyl acetate),ethanol,50,0,0.47
+Poly(vinyl acetate),ethanol,100,1,0.8
+Poly(vinyl acetate),ethyl acetate,20,0,0.415
+Poly(vinyl acetate),ethyl acetate,100,1,0.36
+Poly(vinyl acetate),ethylbenzene,100 to 135,1,0.66 to 0.58
+Poly(vinyl acetate),n-heptane,100 to 120,1,2.14 to 1.63
+Poly(vinyl acetate),1-heptanol,135,1,0.55
+Poly(vinyl acetate),n-hexadecane,135,1,2.99
+Poly(vinyl acetate),n-hexane,100 to 120,1,2.06 to 1.71
+Poly(vinyl acetate),1-hexanol,135,1,0.49
+Poly(vinyl acetate),isopropylamine,40,1,0.66
+Poly(vinyl acetate),methanol,125 to 140,1,0.77 to 0.73
+Poly(vinyl acetate),methyl acetate,100,1,0.3
+Poly(vinyl acetate),2-methyl-2-propanol,135,1,0.3
+Poly(vinyl acetate),nitroethane,125 to 140,1,0.14 to 0.19
+Poly(vinyl acetate),n-nonane,100 to 145,1,2.38 to 1.88
+Poly(vinyl acetate),n-octane,90 to 120,1,2.3 to 1.94
+Poly(vinyl acetate),1-octanol,135,1,0.65
+Poly(vinyl acetate),1-octene,135,1,1.55
+Poly(vinyl acetate),n-pentane,100,1,2.06
+Poly(vinyl acetate),1-pentanol,100 to 135,1,0.59 to 0.41
+Poly(vinyl acetate),2-pentanone,135,1,0.38
+Poly(vinyl acetate),propane,100,1,3.2
+Poly(vinyl acetate),1-propanol,30 to 50,1,1.3 to 1.0
+Poly(vinyl acetate),1-propanol,100 to 135,1,0.64 to 0.38
+Poly(vinyl acetate),2-propanol,125 to 140,1,0.44 to 0.35
+Poly(vinyl acetate),propyl acetate,100,1,0.42
+Poly(vinyl acetate),propylamine,40,1,0.61
+Poly(vinyl acetate),n-tetradecane,135,1,2.7
+Poly(vinyl acetate),tetrahydrofuran,100 to 140,1,0.30 to 0.14
+Poly(vinyl acetate),"1,2,3,4-tetrahydronaphthalene",125 to 145,1,0.83 to 0.77
+Poly(vinyl acetate),"3,3,4,4-tetramethylhexane",125 to 145,1,1.72 to 1.56
+Poly(vinyl acetate),toluene,80 to 140,1,0.56 to 0.40
+Poly(vinyl acetate),"1,1,1,-trichloroethane",100,1,0.49
+Poly(vinyl acetate),trichloroethylene,100,1,0.4
+Poly(vinyl acetate),"1,2,3-trichloropropane",15 to 50,0,0.38
+Poly(vinyl acetate),"2,2,4-trimethylpentane",100 to 120,1,2.17 to 1.86
+Poly(vinyl acetate),n-undecane,100 to 145,1,2.7 to 2.14
+Poly(vinyl acetate),vinyl acetate,30,0.4 to 0.8,0.41 to 0.22
+Poly(vinyl acetate),water,40,1,2.5
+Poly(vinyl alcohol),water,30,0,0.494
+Poly(vinyl chloride),acetaldehyde,125 to 140,1,0.76 to 0.69
+Poly(vinyl chloride),acetone,120 to 140,1,0.77 to 0.53
+Poly(vinyl chloride),acetonitrile,125 to 140,1,0.98 to 0.92
+Poly(vinyl chloride),benzene,120,1,0.75
+Poly(vinyl chloride),benzene,125 to 140,1,0.41 to 0.37
+Poly(vinyl chloride),2-butanone,0 to 50,0,0.402 to 0.413
+Poly(vinyl chloride),2-butanone,120 to 140,1,0.72 to 0.46
+Poly(vinyl chloride),carbon tetrachloride,120,1,1.14
+Poly(vinyl chloride),chloroform,120,1,0.91
+Poly(vinyl chloride),cyclohexane,125 to 140,1,1.21 to 1.09
+Poly(vinyl chloride),cyclohexanone,30 to 69,0,0.240 to 0.264
+Poly(vinyl chloride),"1,2-dichloroethane",125 to 140,1,0.55 to 0.49
+Poly(vinyl chloride),dichloromethane,120,1,1.63
+Poly(vinyl chloride),"1,4-dioxane",14 to 77,0,0.518 to 0.454
+Poly(vinyl chloride),"1,4-dioxane",125 to 140,1,0.18 to 0.13
+Poly(vinyl chloride),ethyl acetate,120,1,0.94
+Poly(vinyl chloride),n-heptane,120,1,2
+Poly(vinyl chloride),n-heptane,125 to 140,1,1.64 to 1.54
+Poly(vinyl chloride),n-hexane,120,1,2.1
+Poly(vinyl chloride),methanol,125 to 140,1,1.42 to 1.24
+Poly(vinyl chloride),nitroethane,125 to 140,1,0.69 to 0.61
+Poly(vinyl chloride),n-pentane,120,1,1.7
+Poly(vinyl chloride),2-propanol,125 to 140,1,1.10 to 0.97
+Poly(vinyl chloride),tetrahydrofuran,125 to 140,1,0.43 to 0.34
+Poly(vinyl chloride),toluene,125 to 140,1,0.45 to 0.41
+Poly(vinyl methyl ether),acetone,40,1,0.75
+Poly(vinyl methyl ether),benzene,40,1,0.15
+Poly(vinyl methyl ether),2-butanone,40,1,0.5
+Poly(vinyl methyl ether),carbon tetrachloride,40,1,0.06
+Poly(vinyl methyl ether),chloroform,40,1,-0.92
+Poly(vinyl methyl ether),cyclohexane,40,1,1.16
+Poly(vinyl methyl ether),cyclopentane,40,1,1.14
+Poly(vinyl methyl ether),dichloromethane,40,1,-0.39
+Poly(vinyl methyl ether),"1,4-dioxane",40,1,0.2
+Poly(vinyl methyl ether),ethylbenzene,25,0.06 to 0.16,0.29 to 0.27
+Poly(vinyl methyl ether),fluorobenzene,40,1,0
+Poly(vinyl methyl ether),n-heptane,40,1,1.15
+Poly(vinyl methyl ether),n-hexane,40,1,1.16
+Poly(vinyl methyl ether),isopropyl ether,40,1,0.76
+Poly(vinyl methyl ether),n-octane,40,1,1.16
+Poly(vinyl methyl ether),2-propanol,40,1,0.9
+Poly(vinyl methyl ether),propyl acetate,40,1,0.25
+Poly(vinyl methyl ether),tetrachloroethylene,40,1,0.34
+Poly(vinyl methyl ether),toluene,40,1,0.14
+Poly(vinyl methyl ether),toluene,25,0.06 to 0.15,0.28 to 0.26
+Poly(vinyl methyl ether),trichloroethylene,40,1,-0.26
+Poly(N-vinyl pyrrolidone),water,25,0.06,0.48
