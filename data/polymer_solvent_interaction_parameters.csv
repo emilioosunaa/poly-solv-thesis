@@ -72,11 +72,13 @@ Poly(N-acryloylpyrrolidine),water,30,0.12,0.53
 Poly(N-acryloylpyrrolidine),water,60,0.35,0.66
 "Poly(cis-1,4-butadiene)",benzene,35,0.06 to 0.10,0.28
 "Poly(cis-1,4-butadiene)",carbon tetrachloride,23.5,0.62 to 0.85,0.11 to 0.02
+"Poly(cis-1,4-butadiene)",chloroform,23.5,0.60 to 0.80,-0.06 to -0.02
 "Poly(cis-1,4-butadiene)",dichloromethane,23.5,0.69 to 0.85,0.32 to 0.21
 "Poly(cis-1,4-butadiene)",cyclohexane,23.5,0.65 to 0.83,0.46 to 0.34
 "Poly(cis-1,4-butadiene)",n-decane,35,0.16 to 0.23,0.46
 "Poly(cis-1,4-butadiene)",n-hexadecane,35,0.26 to 0.30,0.54
 "Poly(cis-1,4-butadiene)",n-hexane,23.5,0.67 to 0.88,0.61 to 0.45
+"Poly(cis-1,4-butadiene)",n-octane,50,0.38 to 0.42,0.31 to 0.27
 "Polybutadiene, 10% cis, 21% trans, 69% vinyl",acetone,40 to 100,1,1.64 to 1.32
 "Polybutadiene, 10% cis, 21% trans, 69% vinyl",acetonitrile,40 to 100,1,2.86 to 2.36
 "Polybutadiene, 10% cis, 21% trans, 69% vinyl",benzene,40 to 100,1,0.26 to 0.19
@@ -143,6 +145,7 @@ Poly(n-butyl methacrylate),2-propanol,40,0 to 1,0.509 to 1.4
 Poly(n-butyl methacrylate),2-propanol,80,0 to 1,0.477 to 1.0
 Poly(?-caprolactone),acetone,100 to 120,1,0.46 to 0.54
 Poly(?-caprolactone),benzene,100 to 120,1,0.06 to 0.11
+Poly(?-caprolactone),benzene,70 to 140,1,-0.04 to 0.01
 Poly(?-caprolactone),n-butane,100,1,1.22
 Poly(?-caprolactone),1-butanol,100,1,0.59
 Poly(?-caprolactone),2-butanone,100 to 120,1,0.36 to 0.45
@@ -150,6 +153,7 @@ Poly(?-caprolactone),n-butyl acetate,70 to 140,1,0.21 to 0.26
 Poly(?-caprolactone),n-butyl acetate,100,1,0.31
 Poly(?-caprolactone),carbon tetrachloride,100 to 120,1,0.25 to 0.37
 Poly(?-caprolactone),chlorobenzene,100,1,-0.08
+Poly(?-caprolactone),chlorobenzene,80 to 140,1, -0.18 to -0.06
 Poly(?-caprolactone),1-chlorobutane,100,1,0.33
 Poly(?-caprolactone),chloroform,100 to 120,1,-0.40 to -0.22
 Poly(?-caprolactone),chloromethane,100,1,0.16
@@ -186,6 +190,7 @@ Poly(?-caprolactone),n-propylbenzene,90 to 140,1,0.20 to 0.19
 Poly(?-caprolactone),2-propylbenzene,80 to 140,1,0.10 to 0.13
 Poly(?-caprolactone),tetrahydrofuran,100,1,0.13
 Poly(?-caprolactone),toluene,100,1,0.08
+Poly(?-caprolactone),toluene,70 to 140,1,-0.01 to 0.07
 Poly(?-caprolactone),"1,1,1-trichloroethane",100,1,0.07
 Poly(?-caprolactone),trichloroethylene,100,1,0.02
 Poly(?-caprolactone),n-undecane,100,1,1.52
@@ -544,6 +549,7 @@ Poly(4-hydroxystyrene),acetone,170 to 190,1,0.25 to 0.58
 Poly(4-hydroxystyrene),2-butanone,170 to 190,1,0.52 to 0.62
 Poly(4-hydroxystyrene),n-butyl acetate,170 to 190,1,1.47 to 1.20
 Poly(4-hydroxystyrene),chlorobenzene,190,1,1.99
+Poly(4-hydroxystyrene),dioxane,190,1,-0.03
 Poly(4-hydroxystyrene),ethyl acetate,170 to 190,1,1.06 to 1.07
 Poly(4-hydroxystyrene),2-methyl-1-propanol,190,1,1.1
 Poly(4-hydroxystyrene),3-pentanone,170 to 190,1,1.08 to 0.76
@@ -637,6 +643,7 @@ Poly(cis-isoprene),benzene,23.5,0.69 to 0.86,0.33 to 0.28
 Poly(cis-isoprene),2-butanone,25,0.6 to 1,0.86 to 1.43
 Poly(cis-isoprene),2-butanone,45,0.6 to 1,0.83 to 1.2
 Poly(cis-isoprene),carbon tetrachloride,23.5,0.69 to 0.84,0.14 to 0.02
+Poly(cis-isoprene),chloroform,23.5,0.66 to 0.85,0.19 to -0.01
 Poly(cis-isoprene),cyclohexane,20,0 to 0.20,0.31
 Poly(cis-isoprene),cyclohexane,23.5,0.64 to 0.84,0.29 to 0.21
 Poly(cis-isoprene),dichloromethane,23.5,0.69 to 0.89,0.54 to 0.41
@@ -823,6 +830,7 @@ Polystyrene,chloroform,25,0.2 to 0.8,0.52 to 0.17
 Polystyrene,chloroform,40,1,0.13
 Polystyrene,chloroform,50,0.2 to 0.8,0.45 to 0.14
 Polystyrene,chloroform,162 to 229,1,0.43 to -0.01
+Polystyrene,chloroform,23.5,0.62 to 0.81,0.05 to -0.15
 Polystyrene,cumene,25,0,0.444
 Polystyrene,cyclohexane,15,0.5,0.77
 Polystyrene,cyclohexane,24,0 to 0.2,0.508 to 0.58
