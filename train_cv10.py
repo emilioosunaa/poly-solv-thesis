@@ -8,14 +8,19 @@ TARGET   = "average_IP"
 TEMP_COL = "T_K"
 PHI_COL  = "volume_fraction"
 
-MESSAGE_HIDDEN_DIM = 2300
-DEPTH = 2
-FFN_HIDDEN_DIM = 2300
-FFN_NUM_LAYERS = 3
+MESSAGE_HIDDEN_DIM = 800
+DEPTH = 3
+FFN_HIDDEN_DIM = 800
+FFN_NUM_LAYERS = 2
 
-EPOCHS = 80
-BATCH_SIZE = 64
+EPOCHS = 300
+PATIENCE = 40
+BATCH_SIZE = 128
 PYTORCH_SEED = 7
+DROPOUT = 0.2
+GRAD_CLIP = 5.0
+ENSEMBLE_SIZE = 5
+NUM_WORKERS = 32
 
 def main():
     p = argparse.ArgumentParser()
@@ -43,6 +48,10 @@ def main():
         "--depth", str(DEPTH),
         "--ffn-hidden-dim", str(FFN_HIDDEN_DIM),
         "--ffn-num-layers", str(FFN_NUM_LAYERS),
+        "--dropout", str(DROPOUT),
+        "--grad-clip", str(GRAD_CLIP),
+        "--ensemble-size", str(ENSEMBLE_SIZE),
+        "--num-workers", str(NUM_WORKERS),
         "--output-dir", str(args.out),
     ]
 
