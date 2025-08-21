@@ -19,14 +19,14 @@ BATCH_SIZE = 128
 PYTORCH_SEED = 7
 DROPOUT = 0.2
 GRAD_CLIP = 5.0
-ENSEMBLE_SIZE = 5
-NUM_WORKERS = 32
+# ENSEMBLE_SIZE = 5
+NUM_WORKERS = 0
 
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--csv", type=Path, default=Path("data/dataset-s1.csv"))
     p.add_argument("--splits", type=Path, default=Path("data/cv10-splits.json"))
-    p.add_argument("--out", type=Path, default=Path("dmpnn_tc_cv10"))
+    p.add_argument("--out", type=Path, default=Path("dmpnn_tc_cv10_4"))
     args = p.parse_args()
 
     args.out.mkdir(parents=True, exist_ok=True)
@@ -50,7 +50,7 @@ def main():
         "--ffn-num-layers", str(FFN_NUM_LAYERS),
         "--dropout", str(DROPOUT),
         "--grad-clip", str(GRAD_CLIP),
-        "--ensemble-size", str(ENSEMBLE_SIZE),
+        # "--ensemble-size", str(ENSEMBLE_SIZE),
         "--num-workers", str(NUM_WORKERS),
         "--output-dir", str(args.out),
     ]
