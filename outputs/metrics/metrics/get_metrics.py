@@ -8,10 +8,6 @@ from sklearn.metrics import root_mean_squared_error, mean_absolute_error, r2_sco
 
 
 def load_splits(path: Path):
-    """Accepts either:
-    - {"split_idx": [ {"train":[...], "val":[...], "test":[...]}, ... ] }
-    - [ {"train":[...], "val":[...], "test":[...]}, ... ]
-    """
     with open(path, "r", encoding="utf-8") as f:
         obj = json.load(f)
     if isinstance(obj, dict) and "split_idx" in obj and isinstance(obj["split_idx"], list):
@@ -22,7 +18,6 @@ def load_splits(path: Path):
 
 
 def find_pred_col(df: pd.DataFrame, target_col: str):
-    """Return the column name that contains predictions."""
     candidates = []
     if target_col in df.columns:
         candidates.append(target_col)
@@ -50,12 +45,7 @@ def evaluate_split(full_df: pd.DataFrame,
                    pred_path: Path,
                    target_col: str,
                    key_cols=("polymer_smiles", "solvent_smiles")):
-    """Evaluate strictly by split indices order; match rows by position with predictions.
 
-    We avoid merging on keys because dataset may contain multiple rows per key
-    (e.g., different T_K/volume_fraction). The predictions file typically has
-    one prediction per test row in the same order they were evaluated.
-    """
     if not pred_path.exists():
         return None, "pred_file_missing"
 
@@ -76,7 +66,6 @@ def evaluate_split(full_df: pd.DataFrame,
         # Provide a descriptive error to help diagnose
         return None, f"length_mismatch:expected_{exp_n}_got_{got_n}"
 
-    # Optional: check key alignment (if keys exist on both sides)
     key_alignment_ok = ""
     if all(k in gt_subset.columns for k in key_cols) and all(k in preds.columns for k in key_cols):
         # Compare keys row-wise after resetting index
@@ -112,11 +101,11 @@ def evaluate_split(full_df: pd.DataFrame,
 
 def main():
     p = argparse.ArgumentParser()
-    p.add_argument("--root", default="dmpnn_tc_cv10_3", help="Root with replicate_*/model_0/")
+    p.add_argument("--root", default="models/dmpnn_tc_cv10_5", help="Root with replicate_*/model_*/")
     p.add_argument("--data", default="data/dataset-s1.csv", help="CSV with full dataset (keys + ground-truth target)")
     p.add_argument("--splits", default="data/cv10-splits.json", help="JSON with split indices for each run")
     p.add_argument("--target", default="average_IP", help="Target column name (e.g., average_IP)")
-    p.add_argument("--save", default="metrics_summary_3.csv", help="Where to save the summary CSV")
+    p.add_argument("--save", default="metrics/metrics_summary_5.csv", help="Where to save the summary CSV")
     args = p.parse_args()
 
     root = Path(args.root)
@@ -127,44 +116,51 @@ def main():
     rows = []
     for k, split in enumerate(splits):
         rep_name = f"replicate_{k}"
-        base = root / rep_name / "model_0"
+        rep_dir = root / rep_name
 
-        # Required: test predictions
-        test_pred = base / "test_predictions.csv"
-        test_res, test_err = evaluate_split(
-            full_df, split.get("test", []), test_pred, target_col
-        )
+        # find all model_* directories (fallback to model_0 for older runs)
+        model_dirs = sorted([d for d in rep_dir.glob("model_*") if d.is_dir()])
+        if not model_dirs:
+            model_dirs = [rep_dir / "model_0"]
 
-        row = {
-            "replicate": rep_name,
-            "test_rmse": test_res["rmse"] if test_res else np.nan,
-            "test_mae":  test_res["mae"]  if test_res else np.nan,
-            "test_r2":   test_res["r2"]   if test_res else np.nan,
-            "test_n":    test_res["n_rows"] if test_res else 0,
-            "test_missing_rows": test_res.get("rows_missing_vs_indices", np.nan) if test_res else np.nan,
-            "test_error": test_err if test_err else (test_res.get("key_check", "") if test_res else ""),
-        }
-        rows.append(row)
+        for mdir in model_dirs:
+            test_pred = mdir / "test_predictions.csv"
+            test_res, test_err = evaluate_split(
+                full_df, split.get("test", []), test_pred, target_col
+            )
+
+            row = {
+                "replicate": rep_name,
+                "model": mdir.name,
+                "test_rmse": test_res["rmse"] if test_res else np.nan,
+                "test_mae":  test_res["mae"]  if test_res else np.nan,
+                "test_r2":   test_res["r2"]   if test_res else np.nan,
+                "test_n":    test_res["n_rows"] if test_res else 0,
+                "test_missing_rows": test_res.get("rows_missing_vs_indices", np.nan) if test_res else np.nan,
+                "test_error": test_err if test_err else (test_res.get("key_check", "") if test_res else ""),
+            }
+            rows.append(row)
 
     summary = pd.DataFrame(rows)
 
     col_order = [
-        "replicate",
+        "replicate", "model",
         "test_rmse", "test_mae", "test_r2", "test_n", "test_missing_rows", "test_error"
     ]
     summary = summary[col_order]
 
     # Print nicely
-    print("\nPer-replicate metrics:")
+    print("\nPer-replicate/model metrics:")
     print(summary.to_string(index=False))
 
-    # Aggregate
+    # Aggregate across all models and replicates (ignoring NaNs)
     agg = summary[["test_rmse", "test_mae", "test_r2"]].astype(float)
-    print("\nTest summary across replicates (ignoring NaNs):")
+    print("\nTest summary across all models and replicates (ignoring NaNs):")
     print("Mean:\n", agg.mean(numeric_only=True))
     print("Std:\n",  agg.std(numeric_only=True))
 
     out_path = Path(args.save)
+    out_path.parent.mkdir(parents=True, exist_ok=True)
     summary.to_csv(out_path, index=False)
     print(f"\nSaved summary to: {out_path.resolve()}")
 

@@ -1,0 +1,11 @@
+Test summary across all models and replicates (ignoring NaNs):
+Mean:
+ test_rmse    0.181140
+test_mae     0.103948
+test_r2      0.904350
+dtype: float64
+Std:
+ test_rmse    0.043613
+test_mae     0.017641
+test_r2      0.057500
+dtype: float64
